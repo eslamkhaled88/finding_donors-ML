@@ -9,6 +9,6 @@ This project is intended to introduce you to the many supervised learning algori
 * 3-What each supervised learning algorithm does in light of a particular dataset.
 * 4-How to determine whether a potential solution model is suitable for the issue.
 ### link will help you 
-1-Supervised learning Material Udacity [https://classroom.udacity.com/nanodegrees/nd009-InMB1/parts/fa53d27c-8e26-4a81-ac5f-a6781f5e0953]
-2-Scikit Learn Supervised Learning Algorithms [http://scikit-learn.org/stable/supervised_learning.html]
-3-Data Transformation Statistics [https://en.wikipedia.org/wiki/Data_transformation_(statistics)]
+* 1-Supervised learning Material Udacity [https://classroom.udacity.com/nanodegrees/nd009-InMB1/parts/fa53d27c-8e26-4a81-ac5f-a6781f5e0953]
+* 2-Scikit Learn Supervised Learning Algorithms [http://scikit-learn.org/stable/supervised_learning.html]
+* 3-Data Transformation Statistics [https://en.wikipedia.org/wiki/Data_transformation_(statistics)]
