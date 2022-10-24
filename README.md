@@ -4,10 +4,10 @@ In order to assist CharityML (a hypothetical charitable organisation) in identif
 ### Project Highlights
 This project is intended to introduce you to the many supervised learning algorithms available in Sklearn and to provide you a way to assess how each model functions and performs given a particular type of data. Understanding precisely when and when a certain algorithm should be employed, as well as when one should be avoided, is crucial in machine learning.
 ### Things you will learn by completing this project:
-1-How to recognise the situations when preprocessing is required and how to use it.
-2-How to set a standard for a problem-solving approach.
-3-What each supervised learning algorithm does in light of a particular dataset.
-4-How to determine whether a potential solution model is suitable for the issue.
+* 1-How to recognise the situations when preprocessing is required and how to use it.
+* 2-How to set a standard for a problem-solving approach.
+* 3-What each supervised learning algorithm does in light of a particular dataset.
+* 4-How to determine whether a potential solution model is suitable for the issue.
 ### link will help you 
 1-Supervised learning Material Udacity [https://classroom.udacity.com/nanodegrees/nd009-InMB1/parts/fa53d27c-8e26-4a81-ac5f-a6781f5e0953]
 2-Scikit Learn Supervised Learning Algorithms [http://scikit-learn.org/stable/supervised_learning.html]
